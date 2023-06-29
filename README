@@ -1,0 +1,4 @@
+This is a dumping ground for some basic captioning scripts.
+
+ex.
+`python caption_fl.py --data_root input --min_new_tokens 20 --max_new_tokens 35 --num_beams 3 --model "openflamingo/OpenFlamingo-9B-vitl-mpt7b" --temperature 1.0`
